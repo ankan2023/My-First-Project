@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+h1{
+    margin-top: 100px;
+}
+.pre-formatted{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-style: dotted;
+    border-color: green;
+    border-width: 8px;
+    padding: 30px 30px 30px 30px;
+}
+.School{
+    width: 350px;
+    height: 350px;
+    margin-left: 100px;
+}
+.College{
+    width: 350px;
+    height: 350px;
+    margin-left: 650px;
+}
